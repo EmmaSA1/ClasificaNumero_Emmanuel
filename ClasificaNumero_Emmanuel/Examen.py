@@ -26,7 +26,7 @@ def divisible_entre_3_y_4(numero):
 
 def menu():
     while True:
-        print("\n--- Menú de Verificaciones ---")
+        print(" Menú ")
         print("1. Verificar si es par o impar")
         print("2. Verificar si es positivo, negativo o cero")
         print("3. Verificar si es múltiplo de 5")
